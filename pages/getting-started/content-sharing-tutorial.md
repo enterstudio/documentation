@@ -182,6 +182,8 @@ func application(application: UIApplication, continueUserActivity userActivity: 
 
 ## Set up Universal Links
 
+*Universal Links is a technology created by Apple that allow the user to be redirected straight into the app without having to go through Safari*
+
 ### Enable Universal Links on the Dashboard
 
 1. In the Dashboard, navigate to [Link Settings](https://dashboard.branch.io/#/settings/link)
