@@ -10,7 +10,7 @@
     "jscs": "1.13.1",
     "lunr": "0.5.11",
     "ramda": "0.13.0",
-    "react": "0.13.1",
+    "react": "15.0.0",
     "react-tools": "0.13.1",
     "reactify": "1.1.0",
     "superagent": "1.2.0",
